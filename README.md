@@ -19,7 +19,6 @@ The selected input parameters include battery, motor, braking, and driving-relat
 Vehicle Telemetry → Data Preprocessing → ML/DL Models → Failure Probability → Vehicle Health Score → Maintenance Alert
 ## Files
 * `Predictive_Maintenance_Report.pdf` — Final project report
-* `Predictive_Maintenance_Report.docx` — Editable project report
 * `EV_Predictive_Maintenance.ipynb` — Google Colab notebook containing the implementation
 ## Tools and Technologies
 Python, Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow/Keras, Matplotlib, and Seaborn.
